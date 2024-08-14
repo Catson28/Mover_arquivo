@@ -1,5 +1,3 @@
-Para colocar em prática o script que move múltiplos arquivos para uma nova pasta, vou te guiar passo a passo, incluindo a configuração de um ambiente virtual em Python. Vamos começar!
-
 ### Passo 1: Instalar o Python
 
 Se ainda não tiver o Python instalado, baixe e instale a versão mais recente do Python no site oficial: [python.org](https://www.python.org/downloads/).
